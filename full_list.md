@@ -23,7 +23,7 @@ Fearless
 - Hey Stephen
 - White Horse
 - *You Belong With Me*
-- Breathe with Colbie Caillat
+- Breathe
 - Tell Me Why
 - You’re Not Sorry
 - The Way I Loved You
@@ -92,10 +92,10 @@ Red
 - Girl At Home
 - Ronan
 - Better Man
-- Nothing New with Phoebe Bridgers
+- Nothing New
 - Babe
 - Message In A Bottle
-- I Bet You Think About Me with Chris Stapleton
+- I Bet You Think About Me
 - Forever Winter
 - Run
 - The Very First Night
@@ -156,11 +156,11 @@ Lover
 - Cornelia Street
 - Death By A Thousand Cuts
 - London Boy
-- Soon You’ll Get Better with the Dixie Chicks
+- Soon You’ll Get Better
 - False God
 - *You Need To Calm Down*
 - Afterglow
-- Me!  with Brendon Urie
+- Me!
 - It’s Nice To Have A Friend
 - Daylight
 
@@ -169,7 +169,7 @@ Folklore
 - *The 1*
 - *Cardigan*
 - *The Last Great American Dynasty*
-- Exile with Bon Iver
+- Exile
 - *My Tears Ricochet*
 - Mirrorball
 - Seven
@@ -191,7 +191,7 @@ Evermore
 - Gold Rush
 - *Tis The Damn Season*
 - *Tolerate It*
-- No Body, No Crime with Haim
+- No Body, No Crime
 - Happiness
 - Dorothea
 - Coney Island
