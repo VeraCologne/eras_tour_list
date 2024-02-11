@@ -224,3 +224,24 @@ Midnights
 - Glitch
 - Would’ve, Could’ve, Should’ve
 - **Dear Reader**
+
+Non-album Songs and Features
+
+- Beautiful Eyes
+- I Heart ?
+- Crazier
+- Two Is Better Than One
+- Both of Us
+- Highway Don't Care
+- I Don't Wanna Live Forever
+- Big Star
+- Beautiful Ghosts
+- Christmas Tree Farm
+- Only the Young
+- Renegade
+- Birch
+- The Joker and the Queen
+- Carolina
+- **Eyes Open**
+- Safe and Sound
+- The Alcott
