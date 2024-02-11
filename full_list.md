@@ -32,7 +32,6 @@ Fearless
 - Change
 - Jump Then Fall
 - Untouchable
-- Forever & Always
 - **Come In With The Rain**
 - Superstar
 - The Other Side Of The Door
@@ -99,7 +98,6 @@ Red
 - Forever Winter
 - Run
 - The Very First Night
-- All Too Well
 
 1989
 
