@@ -17,12 +17,12 @@ Taylor Swift
 
 Fearless
 
-- *Fearless*
+- ***Fearless***
 - Fifteen
-- *Love Story*
+- ***Love Story***
 - Hey Stephen
 - White Horse
-- *You Belong With Me*
+- ***You Belong With Me***
 - Breathe
 - Tell Me Why
 - You’re Not Sorry
@@ -53,12 +53,12 @@ Speak Now
 - Mean
 - The Story of Us
 - Never Grow Up
-- *Enchanted*
+- ***Enchanted***
 - Better Than Revenge
 - Innocent
 - Haunted
 - Last Kiss
-- *Long Live*
+- ***Long Live***
 - Ours
 - **Superman**
 - **Electric Touch**
@@ -73,11 +73,11 @@ Red
 - State Of Grace
 - Red
 - Treacherous
-- *I Knew You Were Trouble*
-- *All Too Well*
-- *22*
+- ***I Knew You Were Trouble***
+- ***All Too Well***
+- ***22***
 - Almost Do
-- *We Are Never Ever Getting Back Together*
+- ***We Are Never Ever Getting Back Together***
 - Stay Stay Stay
 - The Last Time
 - **Holy Ground**
@@ -102,14 +102,14 @@ Red
 1989
 
 - Welcome to New York
-- *Blank Space*
-- *Style*
+- ***Blank Space***
+- ***Style***
 - Out of the Woods
 - All You Had to Do Was Stay
-- *Shake It Off*
+- ***Shake It Off***
 - I Wish You Would
-- *Bad Blood*
-- *Wildest Dreams*
+- ***Bad Blood***
+- ***Wildest Dreams***
 - How You Get the Girl
 - This Love Swift
 - I Know Places
@@ -125,12 +125,12 @@ Red
 
 Reputation
 
-- *…Ready For It?*
+- ***…Ready For It?***
 - End Game
 - I Did Something Bad
-- *Don’t Blame Me*
-- *Delicate*
-- *Look What You Made Me Do*
+- ***Don’t Blame Me***
+- ***Delicate***
+- ***Look What You Made Me Do***
 - So It Goes…
 - Gorgeous
 - Getaway Car
@@ -144,19 +144,19 @@ Reputation
 Lover
 
 - I Forgot That You Existed
-- *Cruel Summer*
-- *Lover*
-- *The Man*
-- *The Archer*
+- ***Cruel Summer***
+- ***Lover***
+- ***The Man***
+- ***The Archer***
 - I Think He Knows
-- *Miss Americana & The Heartbreak Prince*
+- ***Miss Americana & The Heartbreak Prince***
 - Paper Rings
 - Cornelia Street
 - Death By A Thousand Cuts
 - London Boy
 - Soon You’ll Get Better
 - False God
-- *You Need To Calm Down*
+- ***You Need To Calm Down***
 - Afterglow
 - Me!
 - It’s Nice To Have A Friend
@@ -164,31 +164,31 @@ Lover
 
 Folklore
 
-- *The 1*
-- *Cardigan*
-- *The Last Great American Dynasty*
+- ***The 1***
+- ***Cardigan***
+- ***The Last Great American Dynasty***
 - Exile
-- *My Tears Ricochet*
+- ***My Tears Ricochet***
 - Mirrorball
 - Seven
-- *August*
+- ***August***
 - This Is Me Trying
-- *Illicit Affairs*
+- ***Illicit Affairs***
 - Invisible String
 - Mad Woman
 - Epiphany
-- *Betty*
+- ***Betty***
 - Peace
 - Hoax
 - The Lakes
 
 Evermore
 
-- *Willow*
-- *Champagne Problems*
+- ***Willow***
+- ***Champagne Problems***
 - Gold Rush
-- *Tis The Damn Season*
-- *Tolerate It*
+- ***Tis The Damn Season***
+- ***Tolerate It***
 - No Body, No Crime
 - Happiness
 - Dorothea
@@ -196,7 +196,7 @@ Evermore
 - Ivy
 - Cowboy Like Me
 - Long Story Short
-- *Marjorie*
+- ***Marjorie***
 - Closure
 - Evermore
 - Right Where You Left Me
@@ -204,19 +204,19 @@ Evermore
 
 Midnights
 
-- *Lavender Haze*
+- ***Lavender Haze***
 - Maroon
-- *Anti-Hero*
+- ***Anti-Hero***
 - Snow on the Beach
 - **You’re on Your Own, Kid**
-- *Midnight Rain*
+- ***Midnight Rain***
 - Question…?
-- *Vigilante Shit*
-- *Bejeweled*
+- ***Vigilante Shit***
+- ***Bejeweled***
 - Labyrinth
-- *Karma*
+- ***Karma***
 - Sweet Nothing
-- *Mastermind*
+- ***Mastermind***
 - The Great War
 - Bigger Than the Whole Sky
 - Paris
