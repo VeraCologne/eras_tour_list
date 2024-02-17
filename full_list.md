@@ -5,7 +5,7 @@ Taylor Swift
 - Teardrops On My Guitar
 - A Place In This World
 - Cold As You
-- **The Outside**
+- **The Outside** (Tokyo, 09/02)
 - Tied Together With A Smile
 - Stay Beautiful
 - Should’ve Said No
@@ -32,7 +32,7 @@ Fearless
 - Change
 - Jump Then Fall
 - Untouchable
-- **Come In With The Rain**
+- **Come In With The Rain** (Tokyo, 10/02)
 - Superstar
 - The Other Side Of The Door
 - Today Was A Fairytale
@@ -60,8 +60,8 @@ Speak Now
 - Last Kiss
 - ***Long Live***
 - Ours
-- **Superman**
-- **Electric Touch**
+- **Superman** (Tokyo, 09/02)
+- **Electric Touch** (Tokyo, 08/02)
 - When Emma Falls in Love
 - I Can See You
 - Castles Crumbling
@@ -71,7 +71,7 @@ Speak Now
 Red
 
 - State Of Grace
-- **Red**
+- **Red** (Melbourne, 16/02)
 - Treacherous
 - ***I Knew You Were Trouble***
 - ***All Too Well***
@@ -80,7 +80,7 @@ Red
 - ***We Are Never Ever Getting Back Together***
 - Stay Stay Stay
 - The Last Time
-- **Holy Ground**
+- **Holy Ground** (Tokyo, 07/02)
 - Sad Beautiful Tragic
 - The Lucky One
 - Everything Has Changed
@@ -208,7 +208,7 @@ Midnights
 - Maroon
 - ***Anti-Hero***
 - Snow on the Beach
-- **You’re on Your Own, Kid**
+- **You’re on Your Own, Kid** (Tokyo, 10/02)
 - ***Midnight Rain***
 - Question…?
 - ***Vigilante Shit***
@@ -223,8 +223,8 @@ Midnights
 - High Infidelity
 - Glitch
 - Would’ve, Could’ve, Should’ve
-- **Dear Reader**
-- **You're Losing Me**
+- **Dear Reader** (Tokyo, 07/02)
+- **You're Losing Me** (Melbourne, 16/02)
 
 
 Non-album Songs and Features
@@ -244,6 +244,6 @@ Non-album Songs and Features
 - Birch
 - The Joker and the Queen
 - Carolina
-- **Eyes Open**
+- **Eyes Open** (Tokyo, 08/02)
 - Safe and Sound
 - The Alcott
