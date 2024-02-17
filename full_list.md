@@ -1,249 +1,32 @@
-Taylor Swift
+# All Songs
 
-- Tim McGraw
-- Picture To Burn
-- Teardrops On My Guitar
-- A Place In This World
-- Cold As You
-- **The Outside** (Tokyo, 09/02)
-- Tied Together With A Smile
-- Stay Beautiful
-- Should’ve Said No
-- Mary’s Song (Oh My My My)
-- Our Song
-- I'm Only Me When I'm with You
-- Invisible
-- A Perfectly Good Heart
-
-Fearless
-
-- ***Fearless***
-- Fifteen
-- ***Love Story***
-- Hey Stephen
-- White Horse
-- ***You Belong With Me***
-- Breathe
-- Tell Me Why
-- You’re Not Sorry
-- The Way I Loved You
-- Forever & Always
-- The Best Day
-- Change
-- Jump Then Fall
-- Untouchable
-- **Come In With The Rain** (Tokyo, 10/02)
-- Superstar
-- The Other Side Of The Door
-- Today Was A Fairytale
-- You All Over Me
-- Perfectly Fine
-- We Were Happy
-- That’s When
-- Don’t You
-- Bye Bye Baby
-
-Speak Now
-
-- Mine
-- Sparks Fly
-- Back to December
-- Speak Now
-- Dear John
-- Mean
-- The Story of Us
-- Never Grow Up
-- ***Enchanted***
-- Better Than Revenge
-- Innocent
-- Haunted
-- Last Kiss
-- ***Long Live***
-- Ours
-- **Superman** (Tokyo, 09/02)
-- **Electric Touch** (Tokyo, 08/02)
-- When Emma Falls in Love
-- I Can See You
-- Castles Crumbling
-- Foolish One
-- Timeless
-
-Red
-
-- State Of Grace
-- **Red** (Melbourne, 16/02)
-- Treacherous
-- ***I Knew You Were Trouble***
-- ***All Too Well***
-- ***22***
-- Almost Do
-- ***We Are Never Ever Getting Back Together***
-- Stay Stay Stay
-- The Last Time
-- **Holy Ground** (Tokyo, 07/02)
-- Sad Beautiful Tragic
-- The Lucky One
-- Everything Has Changed
-- Starlight
-- Begin Again
-- The Moment I Knew
-- Come Back… Be Here
-- Girl At Home
-- Ronan
-- Better Man
-- Nothing New
-- Babe
-- Message In A Bottle
-- I Bet You Think About Me
-- Forever Winter
-- Run
-- The Very First Night
-
-1989
-
-- Welcome to New York
-- ***Blank Space***
-- ***Style***
-- Out of the Woods
-- All You Had to Do Was Stay
-- ***Shake It Off***
-- I Wish You Would
-- ***Bad Blood***
-- ***Wildest Dreams***
-- How You Get the Girl
-- This Love Swift
-- I Know Places
-- Clean
-- Wonderland
-- You Are in Love
-- New Romantics
-- Slut!
-- Say Don’t Go
-- Now That We Don’t Talk
-- Suburban Legends
-- Is It Over Now?
-
-Reputation
-
-- ***…Ready For It?***
-- End Game
-- I Did Something Bad
-- ***Don’t Blame Me***
-- ***Delicate***
-- ***Look What You Made Me Do***
-- So It Goes…
-- Gorgeous
-- Getaway Car
-- King Of My Heart
-- Dancing With Our Hands Tied
-- Dress
-- This Is Why We Can’t Have Nice Things
-- Call It What You Want
-- New Year’s Day
-
-Lover
-
-- I Forgot That You Existed
-- ***Cruel Summer***
-- ***Lover***
-- ***The Man***
-- ***The Archer***
-- I Think He Knows
-- ***Miss Americana & The Heartbreak Prince***
-- Paper Rings
-- Cornelia Street
-- Death By A Thousand Cuts
-- London Boy
-- Soon You’ll Get Better
-- False God
-- ***You Need To Calm Down***
-- Afterglow
-- Me!
-- It’s Nice To Have A Friend
-- Daylight
-
-Folklore
-
-- ***The 1***
-- ***Cardigan***
-- ***The Last Great American Dynasty***
-- Exile
-- ***My Tears Ricochet***
-- Mirrorball
-- Seven
-- ***August***
-- This Is Me Trying
-- ***Illicit Affairs***
-- Invisible String
-- Mad Woman
-- Epiphany
-- ***Betty***
-- Peace
-- Hoax
-- The Lakes
-
-Evermore
-
-- ***Willow***
-- ***Champagne Problems***
-- Gold Rush
-- ***Tis The Damn Season***
-- ***Tolerate It***
-- No Body, No Crime
-- Happiness
-- Dorothea
-- Coney Island
-- Ivy
-- Cowboy Like Me
-- Long Story Short
-- ***Marjorie***
-- Closure
-- Evermore
-- Right Where You Left Me
-- It’s Time To Go
-
-Midnights
-
-- ***Lavender Haze***
-- Maroon
-- ***Anti-Hero***
-- Snow on the Beach
-- **You’re on Your Own, Kid** (Tokyo, 10/02)
-- ***Midnight Rain***
-- Question…?
-- ***Vigilante Shit***
-- ***Bejeweled***
-- Labyrinth
-- ***Karma***
-- Sweet Nothing
-- ***Mastermind***
-- The Great War
-- Bigger Than the Whole Sky
-- Paris
-- High Infidelity
-- Glitch
-- Would’ve, Could’ve, Should’ve
-- **Dear Reader** (Tokyo, 07/02)
-- **You're Losing Me** (Melbourne, 16/02)
-
-
-Non-album Songs and Features
-
-- Beautiful Eyes
-- I Heart ?
-- Crazier
-- Two Is Better Than One
-- Both of Us
-- Highway Don't Care
-- I Don't Wanna Live Forever
-- Big Star
-- Beautiful Ghosts
-- Christmas Tree Farm
-- Only the Young
-- Renegade
-- Birch
-- The Joker and the Queen
-- Carolina
-- **Eyes Open** (Tokyo, 08/02)
-- Safe and Sound
-- The Alcott
+| Taylor Swift | Fearless | Speak Now | Red | 1989 | Reputation | Lover | Folklore | Evermore | Midnights | Non-Album Songs |
+|--|--|--|--|--|--|--|--|--|--|--|
+| Tim McGraw | ***Fearless*** | Mine | State Of Grace | Welcome to New York | ***…Ready For It?*** | I Forgot That You Existed | ***The 1*** | ***Willow*** | ***Lavender Haze*** | Beautiful Eyes |
+| Picture To Burn | Fifteen | Sparks Fly | **Red** (Melbourne, 16/02) | ***Blank Space*** | End Game | ***Cruel Summer*** | ***Cardigan*** | ***Champagne Problems*** | Maroon | I Heart ? |
+| Teardrops On My Guitar | ***Love Story*** | Back to December | Treacherous | ***Style*** | I Did Something Bad | ***Lover*** | ***The Last Great American Dynasty*** | Gold Rush | ***Anti-Hero*** | Crazier |
+| A Place In This World | Hey Stephen | Speak Now | ***I Knew You Were Trouble*** | Out of the Woods | ***Don’t Blame Me*** | ***The Man*** | Exile | ***Tis The Damn Season*** | Snow on the Beach | Two Is Better Than One |
+| Cold As You | White Horse | Dear John | ***All Too Well*** | All You Had to Do Was Stay | ***Delicate*** | ***The Archer*** | ***My Tears Ricochet*** | ***Tolerate It*** | **You’re on Your Own, Kid** (Tokyo, 10/02) | Both of Us |
+| **The Outside** (Tokyo, 09/02) | ***You Belong With Me*** | Mean | ***22*** | ***Shake It Off*** | ***Look What You Made Me Do*** | I Think He Knows | Mirrorball | No Body, No Crime | ***Midnight Rain*** | Highway Don't Care |
+| Tied Together With A Smile | Breathe | The Story of Us | Almost Do | I Wish You Would | So It Goes… | ***Miss Americana & The Heartbreak Prince*** | Seven | Happiness | Question…? | I Don't Wanna Live Forever |
+| Stay Beautiful | Tell Me Why | Never Grow Up | ***We Are Never Ever Getting Back Together*** | ***Bad Blood*** | Gorgeous | Paper Rings | ***August*** | Dorothea | ***Vigilante Shit*** | Big Star |
+| Should’ve Said No | You’re Not Sorry | ***Enchanted*** | Stay Stay Stay | ***Wildest Dreams*** | Getaway Car | Cornelia Street | This Is Me Trying | Coney Island | ***Bejeweled*** | Beautiful Ghosts |
+| Mary’s Song (Oh My My My) | The Way I Loved You | Better Than Revenge | The Last Time | How You Get the Girl | King Of My Heart | Death By A Thousand Cuts | ***Illicit Affairs*** | Ivy | Labyrinth | Christmas Tree Farm |
+| Our Song | Forever & Always | Innocent | **Holy Ground** (Tokyo, 07/02) | This Love Swift | Dancing With Our Hands Tied | London Boy | Invisible String | Cowboy Like Me | ***Karma*** | Only the Young |
+| I'm Only Me When I'm with You | The Best Day | Haunted | Sad Beautiful Tragic | I Know Places | Dress | Soon You’ll Get Better | Mad Woman | Long Story Short | Sweet Nothing | Renegade |
+| Invisible | Change | Last Kiss | The Lucky One | Clean | This Is Why We Can’t Have Nice Things | False God | Epiphany | ***Marjorie*** | ***Mastermind*** | Birch |
+| A Perfectly Good Heart | Jump Then Fall | ***Long Live*** | Everything Has Changed | Wonderland | Call It What You Want | ***You Need To Calm Down*** | ***Betty*** | Closure | The Great War | The Joker and the Queen |
+| | Untouchable | Ours | Starlight | You Are in Love | New Year’s Day | Afterglow | Peace | Evermore | Bigger Than the Whole Sky | Carolina |
+| | **Come In With The Rain** (Tokyo, 10/02) | **Superman** (Tokyo, 09/02) | Begin Again | New Romantics | | Me! | Hoax | Right Where You Left Me | Paris | **Eyes Open** (Tokyo, 08/02) |
+| | Superstar | **Electric Touch** (Tokyo, 08/02) | The Moment I Knew | Slut! | | It’s Nice To Have A Friend | The Lakes | It’s Time To Go | High Infidelity | Safe and Sound |
+| | The Other Side Of The Door | When Emma Falls in Love | Come Back… Be Here | Say Don’t Go | | Daylight | | | Glitch | The Alcott |
+| | Today Was A Fairytale | I Can See You | Girl At Home | Now That We Don’t Talk | | | | | Would’ve, Could’ve, Should’ve | |
+| | You All Over Me | Castles Crumbling | Ronan | Suburban Legends | | | | | **Dear Reader** (Tokyo, 07/02) | |
+| | Perfectly Fine | Foolish One | Better Man | Is It Over Now? | | | | | **You're Losing Me** (Melbourne, 16/02) | |
+| | We Were Happy | Timeless | Nothing New | | | | | | | |
+| | That’s When | | Babe | | | | | | | |
+| | Don’t You | | Message In A Bottle | | | | | | | |
+| | Bye Bye Baby | | I Bet You Think About Me | | | | | | | |
+| | | | Forever Winter | | | | | | | |
+| | | | Run | | | | | | | |
+| | | | The Very First Night | | | | | | | |
