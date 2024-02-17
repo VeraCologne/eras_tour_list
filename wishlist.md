@@ -10,6 +10,7 @@ Fearless
 
 - Fifteen
 - White Horse
+- Come In With The Rain +
 - You All Over Me
 - Perfectly Fine
 
@@ -26,6 +27,7 @@ Speak Now
 
 Red
 
+- Red ++
 - Everything Has Changed
 - Starlight
 
