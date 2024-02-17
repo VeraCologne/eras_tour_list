@@ -46,7 +46,6 @@ Reputation
 - End Game
 - I Did Something Bad
 - Gorgeous
-- Getaway Car
 - King Of My Heart +
 - Dress
 - This Is Why We Can’t Have Nice Things +

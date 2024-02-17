@@ -10,7 +10,7 @@
 | **The Outside** (Tokyo, 09/02) | ***You Belong With Me*** | Mean | ***22*** | ***Shake It Off*** | ***Look What You Made Me Do*** | I Think He Knows | Mirrorball | No Body, No Crime | ***Midnight Rain*** | Highway Don't Care |
 | Tied Together With A Smile | Breathe | The Story of Us | Almost Do | I Wish You Would | So It Goes… | ***Miss Americana & The Heartbreak Prince*** | Seven | Happiness | Question…? | I Don't Wanna Live Forever |
 | Stay Beautiful | Tell Me Why | Never Grow Up | ***We Are Never Ever Getting Back Together*** | ***Bad Blood*** | Gorgeous | Paper Rings | ***August*** | Dorothea | ***Vigilante Shit*** | Big Star |
-| Should’ve Said No | You’re Not Sorry | ***Enchanted*** | Stay Stay Stay | ***Wildest Dreams*** | Getaway Car | Cornelia Street | This Is Me Trying | Coney Island | ***Bejeweled*** | Beautiful Ghosts |
+| Should’ve Said No | You’re Not Sorry | ***Enchanted*** | Stay Stay Stay | ***Wildest Dreams*** | **Getaway Car** (Melbourne, 17/02) | Cornelia Street | **This Is Me Trying** (Melbourne, 17/02) | Coney Island | ***Bejeweled*** | Beautiful Ghosts |
 | Mary’s Song (Oh My My My) | The Way I Loved You | Better Than Revenge | The Last Time | How You Get the Girl | King Of My Heart | Death By A Thousand Cuts | ***Illicit Affairs*** | Ivy | Labyrinth | Christmas Tree Farm |
 | Our Song | Forever & Always | Innocent | **Holy Ground** (Tokyo, 07/02) | This Love Swift | Dancing With Our Hands Tied | London Boy | Invisible String | Cowboy Like Me | ***Karma*** | Only the Young |
 | I'm Only Me When I'm with You | The Best Day | Haunted | Sad Beautiful Tragic | I Know Places | Dress | Soon You’ll Get Better | Mad Woman | Long Story Short | Sweet Nothing | Renegade |
@@ -19,7 +19,7 @@
 | | Untouchable | Ours | Starlight | You Are in Love | New Year’s Day | Afterglow | Peace | Evermore | Bigger Than the Whole Sky | Carolina |
 | | **Come In With The Rain** (Tokyo, 10/02) | **Superman** (Tokyo, 09/02) | Begin Again | New Romantics | | Me! | Hoax | Right Where You Left Me | Paris | **Eyes Open** (Tokyo, 08/02) |
 | | Superstar | **Electric Touch** (Tokyo, 08/02) | The Moment I Knew | Slut! | | It’s Nice To Have A Friend | The Lakes | It’s Time To Go | High Infidelity | Safe and Sound |
-| | The Other Side Of The Door | When Emma Falls in Love | Come Back… Be Here | Say Don’t Go | | Daylight | | | Glitch | The Alcott |
+| | **The Other Side Of The Door** (Melbourne, 17/02) | When Emma Falls in Love | Come Back… Be Here | Say Don’t Go | | Daylight | | | Glitch | The Alcott |
 | | Today Was A Fairytale | I Can See You | Girl At Home | Now That We Don’t Talk | | | | | Would’ve, Could’ve, Should’ve | |
 | | You All Over Me | Castles Crumbling | Ronan | Suburban Legends | | | | | **Dear Reader** (Tokyo, 07/02) | |
 | | Perfectly Fine | Foolish One | Better Man | Is It Over Now? | | | | | **You're Losing Me** (Melbourne, 16/02) | |
