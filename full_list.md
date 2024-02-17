@@ -71,7 +71,7 @@ Speak Now
 Red
 
 - State Of Grace
-- Red
+- **Red**
 - Treacherous
 - ***I Knew You Were Trouble***
 - ***All Too Well***
@@ -224,6 +224,8 @@ Midnights
 - Glitch
 - Would’ve, Could’ve, Should’ve
 - **Dear Reader**
+- **You're Losing Me**
+
 
 Non-album Songs and Features
 
