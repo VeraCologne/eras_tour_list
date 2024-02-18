@@ -4,7 +4,7 @@
 |--|--|--|--|--|--|--|--|--|--|--|
 | Tim McGraw | ***Fearless*** | Mine | State Of Grace | Welcome to New York | ***…Ready For It?*** | I Forgot That You Existed | ***The 1*** | ***Willow*** | ***Lavender Haze*** | Beautiful Eyes |
 | Picture To Burn | Fifteen | Sparks Fly | **Red** (Melbourne, 16/02) | ***Blank Space*** | End Game | ***Cruel Summer*** | ***Cardigan*** | ***Champagne Problems*** | Maroon | I Heart ? |
-| Teardrops On My Guitar | ***Love Story*** | Back to December | Treacherous | ***Style*** | I Did Something Bad | ***Lover*** | ***The Last Great American Dynasty*** | Gold Rush | ***Anti-Hero*** | Crazier |
+| **Teardrops On My Guitar** (Melbourne, 18/02) | ***Love Story*** | Back to December | Treacherous | ***Style*** | I Did Something Bad | ***Lover*** | ***The Last Great American Dynasty*** | Gold Rush | ***Anti-Hero*** | Crazier |
 | A Place In This World | Hey Stephen | Speak Now | ***I Knew You Were Trouble*** | Out of the Woods | ***Don’t Blame Me*** | ***The Man*** | Exile | ***Tis The Damn Season*** | Snow on the Beach | Two Is Better Than One |
 | Cold As You | White Horse | Dear John | ***All Too Well*** | All You Had to Do Was Stay | ***Delicate*** | ***The Archer*** | ***My Tears Ricochet*** | ***Tolerate It*** | **You’re on Your Own, Kid** (Tokyo, 10/02) | Both of Us |
 | **The Outside** (Tokyo, 09/02) | ***You Belong With Me*** | Mean | ***22*** | ***Shake It Off*** | ***Look What You Made Me Do*** | I Think He Knows | Mirrorball | No Body, No Crime | ***Midnight Rain*** | Highway Don't Care |
@@ -19,7 +19,7 @@
 | | Untouchable | Ours | Starlight | You Are in Love | New Year’s Day | Afterglow | Peace | Evermore | Bigger Than the Whole Sky | Carolina |
 | | **Come In With The Rain** (Tokyo, 10/02) | **Superman** (Tokyo, 09/02) | Begin Again | New Romantics | | Me! | Hoax | Right Where You Left Me | Paris | **Eyes Open** (Tokyo, 08/02) |
 | | Superstar | **Electric Touch** (Tokyo, 08/02) | The Moment I Knew | Slut! | | It’s Nice To Have A Friend | The Lakes | It’s Time To Go | High Infidelity | Safe and Sound |
-| | **The Other Side Of The Door** (Melbourne, 17/02) | When Emma Falls in Love | Come Back… Be Here | Say Don’t Go | | Daylight | | | Glitch | The Alcott |
+| | **The Other Side Of The Door** (Melbourne, 17/02) | When Emma Falls in Love | **Come Back… Be Here** (Melbourne, 18/02) | Say Don’t Go | | **Daylight** (Melbourne, 18/02) | | | Glitch | The Alcott |
 | | Today Was A Fairytale | I Can See You | Girl At Home | Now That We Don’t Talk | | | | | Would’ve, Could’ve, Should’ve | |
 | | You All Over Me | Castles Crumbling | Ronan | Suburban Legends | | | | | **Dear Reader** (Tokyo, 07/02) | |
 | | Perfectly Fine | Foolish One | Better Man | Is It Over Now? | | | | | **You're Losing Me** (Melbourne, 16/02) | |
