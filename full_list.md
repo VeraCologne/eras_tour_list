@@ -10,13 +10,13 @@
 | **The Outside** (Tokyo, 09/02) | ***You Belong With Me*** | Mean | ***22*** | ***Shake It Off*** | ***Look What You Made Me Do*** | I Think He Knows | Mirrorball | No Body, No Crime | ***Midnight Rain*** | Highway Don't Care |
 | Tied Together With A Smile | Breathe | The Story of Us | Almost Do | I Wish You Would | So It Goes… | ***Miss Americana & The Heartbreak Prince*** | Seven | Happiness | Question…? | I Don't Wanna Live Forever |
 | Stay Beautiful | Tell Me Why | Never Grow Up | ***We Are Never Ever Getting Back Together*** | ***Bad Blood*** | Gorgeous | Paper Rings | ***August*** | Dorothea | ***Vigilante Shit*** | Big Star |
-| Should’ve Said No | You’re Not Sorry | ***Enchanted*** | Stay Stay Stay | ***Wildest Dreams*** | **Getaway Car** (Melbourne, 17/02) | Cornelia Street | **This Is Me Trying** (Melbourne, 17/02) | Coney Island | ***Bejeweled*** | Beautiful Ghosts |
+| **Should’ve Said No** (Sydney, 24/02) | **You’re Not Sorry**(Sydney, 24/02) | ***Enchanted*** | Stay Stay Stay | ***Wildest Dreams*** | **Getaway Car** (Melbourne, 17/02) | Cornelia Street | **This Is Me Trying** (Melbourne, 17/02) | Coney Island | ***Bejeweled*** | Beautiful Ghosts |
 | Mary’s Song (Oh My My My) | The Way I Loved You | Better Than Revenge | The Last Time | **How You Get the Girl** (Sydney, 23/03) | King Of My Heart | Death By A Thousand Cuts | ***Illicit Affairs*** | Ivy | Labyrinth | Christmas Tree Farm |
 | Our Song | Forever & Always | Innocent | **Holy Ground** (Tokyo, 07/02) | This Love Swift | Dancing With Our Hands Tied | London Boy | Invisible String | Cowboy Like Me | ***Karma*** | Only the Young |
 | I'm Only Me When I'm with You | The Best Day | Haunted | Sad Beautiful Tragic | I Know Places | Dress | Soon You’ll Get Better | Mad Woman | Long Story Short | Sweet Nothing | Renegade |
 | Invisible | Change | Last Kiss | The Lucky One | Clean | This Is Why We Can’t Have Nice Things | False God | Epiphany | ***Marjorie*** | ***Mastermind*** | Birch |
 | A Perfectly Good Heart | Jump Then Fall | ***Long Live*** | Everything Has Changed | Wonderland | Call It What You Want | ***You Need To Calm Down*** | ***Betty*** | Closure | The Great War | The Joker and the Queen |
-| | Untouchable | Ours | Starlight | You Are in Love | New Year’s Day | Afterglow | Peace | Evermore | Bigger Than the Whole Sky | Carolina |
+| | Untouchable | Ours | Starlight | You Are in Love | **New Year’s Day** (Sydney, 24/02)  | Afterglow | **Peace** (Sydney, 24/02) | Evermore | Bigger Than the Whole Sky | Carolina |
 | | **Come In With The Rain** (Tokyo, 10/02) | **Superman** (Tokyo, 09/02) | Begin Again | New Romantics | | Me! | Hoax | Right Where You Left Me | Paris | **Eyes Open** (Tokyo, 08/02) |
 | | Superstar | **Electric Touch** (Tokyo, 08/02) | The Moment I Knew | Slut! | | It’s Nice To Have A Friend | The Lakes | It’s Time To Go | High Infidelity | Safe and Sound |
 | | **The Other Side Of The Door** (Melbourne, 17/02) | When Emma Falls in Love | **Come Back… Be Here** (Melbourne, 18/02) | Say Don’t Go | | **Daylight** (Melbourne, 18/02) | | | Glitch | The Alcott |

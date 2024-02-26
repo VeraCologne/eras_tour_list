@@ -131,7 +131,6 @@ Reputation
 - Dress
 - This Is Why We Can't Have Nice Things
 - Call It What You Want
-- New Year's Day
 
 Lover
 
