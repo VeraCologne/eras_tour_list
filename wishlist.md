@@ -70,7 +70,6 @@ Evermore
 
 Midnights
 
-- Maroon
 - **You’re on Your Own, Kid** +++
 - Question…?
 - The Great War
@@ -145,7 +144,6 @@ Folklore
 
 Evermore
 
-- Ivy
 - Long Story short
 - Dorothea
 
@@ -154,4 +152,3 @@ Midnights
 - Bigger than the whole Sky
 - Question…?
 - Hits different
-- Would‘ve, Could‘ve, Should‘ve
