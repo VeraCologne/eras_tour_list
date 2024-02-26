@@ -22,7 +22,6 @@ Speak Now
 - Dear John ++
 - Mean
 - Better Than Revenge
-- Haunted
 - Foolish One
 
 Red
@@ -39,7 +38,6 @@ Red
 - You Are in Love
 - Slut!
 - Say Don’t Go +
-- Is It Over Now? +
 
 Reputation
 
@@ -60,7 +58,6 @@ Lover
 
 Folklore
 
-- Exile
 - Mirrorball
 - Invisible String
 - The Lakes
@@ -116,7 +113,6 @@ Red
 - Clean
 - New Romantics
 - Say Don‘t Go
-- Is It Over Now?
 - No that we don‘t Talk
 - Welcome to New York
 
@@ -143,7 +139,6 @@ Lover
 
 Folklore
 
-- Exile
 - Mirrorball
 - Invisible String
 - Hoax
