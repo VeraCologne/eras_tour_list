@@ -8,8 +8,8 @@ Feel free to copy and adjust this in any way you like to.
 
 List of Non-Album and Feature Songs taken from [The Eras Tour Setlist Google Sheet](https://docs.google.com/spreadsheets/d/1isbSEIwagJrX97rdZhdYsPBQ4Agw09VIdYj8SqkEjxA/edit#gid=478348971), all other mistakes are mine. ;)
 
-Last show: Sydney, N4
+Last show: Singapore, N1
 
-Shows until Paris, Night 1 (first after TTPD): 6
+Shows until Paris, Night 1 (first after TTPD): 5
 
-Shows until Munich, Night 2 (my show): 43
+Shows until Munich, Night 2 (my show): 42

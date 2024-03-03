@@ -16,7 +16,6 @@ Fearless
 
 Speak Now
 
-- Mine +
 - Sparks Fly +++
 - Back to December
 - Dear John ++
@@ -45,7 +44,6 @@ Reputation
 - I Did Something Bad
 - Gorgeous
 - King Of My Heart +
-- Dress
 - This Is Why We Can’t Have Nice Things +
 
 Lover
@@ -123,7 +121,6 @@ Reputation
 - Gorgeous
 - King Of My Heart
 - Dancing With Our Hands Tied
-- Dress
 - This Is Why We Can't Have Nice Things
 - Call It What You Want
 
