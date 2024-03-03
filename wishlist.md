@@ -32,7 +32,6 @@ Red
 
 - Welcome to New York
 - Out of the Woods +
-- Clean ++
 - Wonderland
 - You Are in Love
 - Slut!
@@ -141,7 +140,6 @@ Folklore
 
 Evermore
 
-- Long Story short
 - Dorothea
 
 Midnights
